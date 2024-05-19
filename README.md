@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">a passionate to become fullstack programmer</p>
+<p align="center">passionate to become fullstack programmer</p>
 
 ###
 
